@@ -10,20 +10,20 @@ your activity by using the source control button. Remember: before you
 can successfully submit your work you need to provide a comment/ description
 in the text box in soucre control to submit your work. 
 
-1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  
+1. In a 3-4 sentences, please tell me about yourself. What are your hobbies outside of school.  I am a basketball player, football player, as well as a gamer. I have played basketball in a league twice as well as football. The only time I play my games is when I want to kill time. I am very self sufficient in some aspects.
 
 2. Do you have someone in your network of family and friends that works in tech? If yes, please
 describe what they do and how you are connected to them.
-
+I have my friend Kaz he sometimes codes games and animates certain designs and characters.
 3. Do you plan on attending college? If yes, what are you interested in studying 
 (if you know you want to got to college, but unsure of what you want to study, thats alright.)
-
+I plan on going to college and I want to go in as an engineer
 4. In your own words, what do you think will be the hardest thing about learning coding?
-
+Probably the memorization of the codes having to be used/.
 5. Bonus:
 Do you watch the NFL? If yes, who is your favorite team, and what will your teams record
 be at the end of the season? 
-
+I don't have a favorite team but one team I like are the 49ers and hopefully they go at least 13-4.
 About Me Activity: Part 2
 
 Once you have completed the first part of this activity, please use the following
