@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    li {
+      float: left;
+    }
+
+    li a {
+      display: block;
+      padding: 8px;
+    
+    }
+
+    .item1 {
+      grid-area: nav;
+    }
+
+    .item2 {
+      grid-area: advertisement;
+    }
+
+    .item3 {
+      grid-area: maincontent;
+      height:250px;
+    }
+
+    .item4 {
+      grid-area: option1;
+    }
+
+    .item5 {
+      grid-area: option2;
+    }
+
+    .item6{
+      grid-area:option3;
+    }
+
+    .item7{
+      grid-area:footer
+    }
+    .grid-container {
+      display: grid;
+      grid-template-areas:
+        'nav nav nav nav nav nav'
+        'maincontent maincontent maincontent maincontent maincontent advertisement'
+        'option1 option1 option2 option2 option3 option3'
+        'footer footer footer footer footer footer';
+      gap: 100px;
+      background-color: #dfd4b2;
+      padding: 100px;
+    }
+
+    .grid-container>div {
+      background-color: white;
+      text-align: center;
+      padding: 20px 0;
+      font-size: 30px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="grid-container">
+    <div class="item1">Nav</div>
+    <div class="item2">Advertisement</div>
+    <div class="item3">Main Content</div>
+    <div class="item4">Option 1</div>
+    <div class="item5">Option 2</div>
+    <div class="item6">Option 3</div>
+    <div class="item7">Footer</div>
+  </div>
+
+
+</body>
+
+</html>
