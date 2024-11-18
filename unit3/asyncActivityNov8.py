@@ -38,4 +38,4 @@ y= 2
 
 z= y*2
 
-print(x > 1 and z =4 )
+print(x > 1 and z = 4)
