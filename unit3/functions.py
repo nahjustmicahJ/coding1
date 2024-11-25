@@ -27,3 +27,11 @@ def pbAndj():
     print(' step 2. spread peanut butter on one side of bread')
     print(' step 3. spread jelly on the other side of the bread')
     print(' step 4. put the sandwich together with spreads')
+
+# functiom definition = tells the computer
+# out introstructions we want to do and 
+# stores its for later until it is called.
+def performMath(x):
+    print(300 * X)
+
+performMath(2)
