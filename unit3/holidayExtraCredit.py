@@ -13,4 +13,4 @@ def holidayPlanner(date):
         print("Sorry there is nothing planned")
     
 
-holidayPlanner("12/22/2024")
+holidayPlanner("12/31/2024")

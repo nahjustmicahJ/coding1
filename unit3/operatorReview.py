@@ -5,7 +5,7 @@
 # logical
 
 # comparison
-# assisgnemt operators- doing arithmetic after the assignmentof a value.
+# assignment operators- doing arithmetic after the assignment of a value.
 # assignment is primarily focused on the yhe 
 
 # arithmetic - math process, addition, subtraction, multiplication, an

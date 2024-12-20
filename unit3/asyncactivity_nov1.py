@@ -1,7 +1,7 @@
 # data types= are the fundamental building 
 # blocks of python
 
-# intergers= whole nubers
+# intergers= whole numbers
 #string= any characters wrapped in quotes
 #boolean= true or false
 # we output data using the print function
