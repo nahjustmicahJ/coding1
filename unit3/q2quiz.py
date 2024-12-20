@@ -80,3 +80,17 @@ discounted_price = calculate_discount(original_price, discount_percentage)
 print("Original Price:", original_price)
 print("Discount Percentage:", discount_percentage)
 print("Discounted Price:", discounted_price)
+
+
+def accepted(date):
+    if date== "Temple University":
+        print('You have been accepted!')
+    if date== "Penn State":
+        print('Sorry, we have declined your request')
+    if date== "University of Pennsylvania":
+        print('Sorry, we have declined your request')
+    if date== "Cheyney University":
+        print('You have been accepted!')
+    
+
+accepted("Cheyney University")
