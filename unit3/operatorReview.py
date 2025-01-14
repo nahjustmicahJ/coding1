@@ -19,7 +19,7 @@ checkingAccountBalance=0.0
 savingsAccountBalance= 300.0
 investmentAccount= 0.0
 
-print(depositAmount+ savingsAccountAlance)
+print(depositAmount+ savingsAccountBalance)
 
 # track runner app arithmetic operator examples
 firstRunTime=20.00
